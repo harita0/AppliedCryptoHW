@@ -1,0 +1,45 @@
+{
+  "homebrew_version": "6.0.21-28-gfd18738",
+  "used_options": [],
+  "unused_options": [],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "loaded_from_api": true,
+  "loaded_from_internal_api": true,
+  "installed_on_request": true,
+  "changed_files": [
+    "lib/pkgconfig/gmp.pc",
+    "lib/pkgconfig/gmpxx.pc"
+  ],
+  "linkage_files": [
+    "lib/libgmp.10.dylib",
+    "lib/libgmpxx.4.dylib"
+  ],
+  "binary_relocation_files": [],
+  "time": 1790459512,
+  "source_modified_time": 1690638162,
+  "compiler": "clang",
+  "aliases": [],
+  "runtime_dependencies": [],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "6.3.0",
+      "head": null,
+      "version_scheme": 0,
+      "compatibility_version": null
+    },
+    "path": "/Users/haritasuresh/Library/Caches/Homebrew/api/internal/packages.arm64_tahoe.jws.json",
+    "tap_git_head": null,
+    "tap": "homebrew/core"
+  },
+  "arch": "arm64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 26",
+    "cpu_family": "dunno",
+    "xcode": "26.6",
+    "clt": "26.6.0.0.1781586589",
+    "preferred_perl": "5.34"
+  }
+}
